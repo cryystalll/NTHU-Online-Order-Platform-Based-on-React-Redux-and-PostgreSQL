@@ -4,12 +4,12 @@
 * sever-client
 * with own database using PostgreSQL
 ## Run: 
-####client 
+##client 
 * npm run start
 * npm install react-datepicker --save
 * npm install react-select --save
 * npm install emailjs-com --save
-####server
+##server
 * source env.sh 
 * npm run start
 
