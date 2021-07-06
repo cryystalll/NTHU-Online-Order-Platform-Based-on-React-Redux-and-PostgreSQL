@@ -12,8 +12,16 @@
 ## server
 * source env.sh 
 * npm run start
+## User Login
+![Variable Declaration](/img/11.png)
+## Display Post
+![Variable Declaration](/img/22.png)
+## Create Post
+![Variable Declaration](/img/33.png)
 
-![Variable Declaration](/img/8.png)
+![Variable Declaration](/img/44.png)
+## Email Service
+![Variable Declaration](/img/55.png)
 
 
 
