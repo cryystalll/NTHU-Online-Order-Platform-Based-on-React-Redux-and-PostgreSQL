@@ -7,7 +7,7 @@ With own database build by PostgreSQL
 ```
 <div align=center><img src="/img/22.png" alt="Cover" width="80%"/></div>
 
-## Run: 
+## Run 
 * client 
 ```
 npm run start
