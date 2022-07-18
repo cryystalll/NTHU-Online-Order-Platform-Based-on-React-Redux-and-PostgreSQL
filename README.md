@@ -4,18 +4,20 @@ A project of campus Online Platform in NTHU x NCTU.
 ```
 <div align=center><img src="/img/22.png" alt="Cover" width="80%"/></div>
 
+* Introduction
 ```
 Node.js , SQL , JavaScript , React-Redux backend.
 Complete Sever-Client Platform.
 Own database support build by PostgreSQL.
-Deplyment on AWS.
+Deployment on AWS.
 Aim to provide convenient and express user buying experience.
 ```
+* Function
 ```
 1.User Login
 2.Display List
 3.Create Post
-5.Publish Post
+5.Publish Details
 4.Database Overview
 6.Email Service
 ```
@@ -49,7 +51,7 @@ Create your own post and initiate a team buying!
 ```
 <div align=center><img src="/img/33.png" alt="Cover" width="80%"/></div>
 
-* Publish Post
+* Publish Details
 ```
 Publish your team buying details on bulletin board!
 ```
