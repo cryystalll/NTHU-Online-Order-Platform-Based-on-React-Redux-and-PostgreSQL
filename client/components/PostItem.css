@@ -1,0 +1,139 @@
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+@import url('https://fonts.googleapis.com/css?family=Economica');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@font-face {
+  font-family: 'abc';
+  src: url('https://fonts.googleapis.com/earlyaccess/cwtexyen.css');
+}
+
+
+
+.post-item {
+  color:#5B5B5B;
+    width: 100%
+}
+
+.post-item .post {
+  text-align: center;
+  color:#5B5B5B;
+    width: 100%
+}
+
+.post-item .mood {
+    text-align: center;
+    font-size: 2rem;
+    width: 3rem;
+}
+
+.post-item .wrap {
+    width: 100%;
+    padding-left: 0.75rem;
+}
+
+.post-item .ts {
+    color: #009393;
+    font-size: 0.875rem;
+    margin-bottom: 0.25rem;
+}
+.post-item .date {
+
+  font-family: 'Fredericka the Great', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.post-item .datechi {
+  color:#009393;
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+.post-item .timeout {
+   color:#009393	;
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.post-item .time {
+
+  font-family: 'Fredericka the Great', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.post-item .timechi {
+  color:#009393	;
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1rem;
+
+}
+.post-item .placechi {
+  font-family: 'abc', sans-serif;
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
+
+}
+.post-item .fee {
+
+  font-family: 'Fredericka the Great', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+.post-item .feechi {
+    color:#009393;
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1rem;
+
+}
+.post-item .textschi {
+
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1.3rem;
+  margin-top:1rem;
+  margin-bottom: 1rem;
+
+
+}
+.post-item .button {
+    color: #bcbcbc;
+    font-size: 0.2rem;
+    margin-bottom: 0.25rem;
+}
+
+.post-item .shop {
+color:#009393;
+
+  font-family: 'Fredericka the Great','abc', sans-serif;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.post-item .vote {
+    color: #bcbcbc;
+    padding-top: 0.5rem;
+}
+
+.post-item .vote .vote-plus i {
+    color: #bcdff1;
+    padding-left: 0.5rem;
+}
+
+.tooltip-inner {
+    max-width: none !important;
+}
+
+.tooltip-inner i.vote-tooltip {
+    font-size: 1.5rem;
+    width: 2.25rem;
+    line-height: 1.75;
+}
+
+.tooltip-inner i.vote-tooltip:hover {
+    color: #31b0d5
+}
