@@ -1,19 +1,29 @@
-# NTHU x NCTU Order Drink Website Based On React-Redux
+# NTHU x NCTU Order Drink Online Platform Based On React-Redux and PostgreSQL
 ```
-A project for campus order form 
-Using Node.js , SQL , JavaScript , React-Redux 
-Sever-Client Platform
-With own database build by PostgreSQL
+A project of campus Online Platform in NTHU x NCTU.
 ```
 <div align=center><img src="/img/22.png" alt="Cover" width="80%"/></div>
+
+```
+Node.js , SQL , JavaScript , React-Redux backend.
+Complete Sever-Client Platform.
+Own database support build by PostgreSQL.
+Deplyment on AWS.
+Aim to provide convenient and express user buying experience.
+```
+```
+1.User Login
+2.Display List
+3.Create Post
+5.Publish Post
+4.Database Overview
+6.Email Service
+```
 
 ## Run 
 * client 
 ```
 npm run start
-npm install react-datepicker --save
-npm install react-select --save
-npm install emailjs-com --save
 ```
 * server
 ```
@@ -27,28 +37,44 @@ Login by google account
 ```
 <div align=center><img src="/img/11.png" alt="Cover" width="80%"/></div>
 
-## Display List
+* Display List
 ```
 Clearly display every ordering forms opening to users
 ```
 <div align=center><img src="/img/22.png" alt="Cover" width="80%"/></div>
 
-## Create Post
+* Create Post
 ```
 Create your own post and initiate a team buying!
 ```
 <div align=center><img src="/img/33.png" alt="Cover" width="80%"/></div>
 
-## Publish Post
+* Publish Post
 ```
 Publish your team buying details on bulletin board!
 ```
 <div align=center><img src="/img/44.png" alt="Cover" width="80%"/></div>
 
-## Email Service
+
+* Own Database
+```
+Various data type management for online purchage workflow.
+```
+
+<div align=center><img src="/img/66.png" alt="Cover" width="50%"/></div>
+
+
+* Email Service
 ```
 Send email notification to every team buying participants
 ```
+<div align=center><img src="/img/88.png" alt="Cover" width="50%"/></div>
+
+* Work Complete!
+```
+Don't forget to receive your drink.
+```
+
 <div align=center><img src="/img/55.png" alt="Cover" width="80%"/></div>
 
 
