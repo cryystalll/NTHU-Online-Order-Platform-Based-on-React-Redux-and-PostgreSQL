@@ -60,7 +60,7 @@ Publish your team buying details on bulletin board!
 
 * Own Database
 ```
-Various data type management for online purchage workflow.
+Various data type management for online purchase workflow.
 ```
 
 <div align=center><img src="/img/66.png" alt="Cover" width="50%"/></div>
