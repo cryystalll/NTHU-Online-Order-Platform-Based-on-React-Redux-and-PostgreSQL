@@ -17,8 +17,8 @@ Aim to provide convenient and express user buying experience.
 1.User Login
 2.Display List
 3.Create Post
-5.Publish Details
-4.Database Overview
+4.Publish Details
+5.Database Overview
 6.Email Service
 ```
 
@@ -58,7 +58,7 @@ Publish your team buying details on bulletin board!
 <div align=center><img src="/img/44.png" alt="Cover" width="80%"/></div>
 
 
-* Own Database
+* Database Overview
 ```
 Various data type management for online purchase workflow.
 ```
